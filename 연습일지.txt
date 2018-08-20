@@ -1,0 +1,2 @@
+﻿<Practice 프로젝트안에 있음>
+RGBDistance.c : 180820 (https://www.acmicpc.net/submit/1149/)
