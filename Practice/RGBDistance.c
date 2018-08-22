@@ -25,8 +25,7 @@ int calc(int(*houses)[3], int n)
 	return temp;
 }
 
-
-int main()
+/*int main()
 {
 	
 	int n = 3;
@@ -50,11 +49,11 @@ int main()
 			scanf("%d", &houses[i][j]);
 		}
 
-	}*/
+	}
 	printf("%d", calc(houses, n));
 
 	return 0;
-}
+}*/
 
 
 
