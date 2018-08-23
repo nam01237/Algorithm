@@ -31,7 +31,7 @@ int GetMin(int* temp, int n)
 	return temp[index];
 }
 
-
+/*
 int main()
 {
 
@@ -76,4 +76,5 @@ int main()
 
 	return 0;
 }
+*/
 
