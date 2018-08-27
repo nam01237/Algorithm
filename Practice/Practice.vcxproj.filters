@@ -27,5 +27,14 @@
     <ClCompile Include="Coin2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="PowSum.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3nTilling.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PowerPlant.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

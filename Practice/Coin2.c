@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+/*
 int main()
 {
 	int n;
@@ -43,3 +44,4 @@ int main()
 
 	printf("%d", dp[k]);
 }
+*/

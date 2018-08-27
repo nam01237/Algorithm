@@ -119,8 +119,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="3nTilling.c" />
     <ClCompile Include="Coin2.c" />
     <ClCompile Include="GoDown.c" />
+    <ClCompile Include="PowerPlant.c" />
+    <ClCompile Include="PowSum.c" />
     <ClCompile Include="RGBDistance.c" />
     <ClCompile Include="z.c" />
   </ItemGroup>
