@@ -36,5 +36,20 @@
     <ClCompile Include="PowerPlant.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="CabbageWorm.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CommonDivisor.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Sort.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MergeSort.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Blindness.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

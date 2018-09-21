@@ -35,7 +35,7 @@ int plant(int cur, int mask)
 	}
 	return dp[mask];
 }
-
+/*
 int main()
 {
 	int k = 0;
@@ -81,4 +81,5 @@ int main()
 	else
 		printf("%d", plant(k, mask));
 }
+*/
 

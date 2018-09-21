@@ -120,11 +120,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="3nTilling.c" />
+    <ClCompile Include="Blindness.c" />
+    <ClCompile Include="CabbageWorm.c" />
     <ClCompile Include="Coin2.c" />
+    <ClCompile Include="CommonDivisor.c" />
     <ClCompile Include="GoDown.c" />
+    <ClCompile Include="MergeSort.c" />
     <ClCompile Include="PowerPlant.c" />
     <ClCompile Include="PowSum.c" />
     <ClCompile Include="RGBDistance.c" />
+    <ClCompile Include="Sort.c" />
     <ClCompile Include="z.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
